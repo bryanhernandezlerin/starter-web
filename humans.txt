@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bryan Hernandez	bnhn@gft.com
 
 # THANKS
 
